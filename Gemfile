@@ -7,3 +7,4 @@ git_source(:github) {|battle| "https://github.com/#{repo_name}" }
 # gem "rails"
 gem 'rspec'
 gem 'sinatra'
+gem 'capybara'
